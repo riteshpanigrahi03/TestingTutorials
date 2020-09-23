@@ -52,7 +52,6 @@ public class TestCalc {
         c.div(a,b);
         System.out.println("Denominator cannot be zero");
 
-
     }
 
     @Before
